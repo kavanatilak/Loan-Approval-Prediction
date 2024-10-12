@@ -9,7 +9,7 @@ The stages include:
 3. Data Transformation: Transforming categorical variables and preparing the data for modeling.
 4. Model Building and Evaluation: Developing a Decision Tree and XGBoost model to predict loan status and evaluating its performance using appropriate metrics.
 
-The notebook and the dataset can be found in the "**master**" branch
+The notebook and the dataset can be also be found in the "**master**" branch
 
 How to Use To replicate the analysis or explore the code:
 
